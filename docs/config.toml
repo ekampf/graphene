@@ -36,3 +36,10 @@ ga = "UA-12613282-7"
     "/docs/sqlalchemy/tutorial/",
     "/docs/sqlalchemy/tips/",
   ]
+
+[docs.gae]
+  name = "Google AppEngine"
+  pages = [
+    "/docs/gae/tutorial/",
+    "/docs/gae/authorization/"
+  ]
